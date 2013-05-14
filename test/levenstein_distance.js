@@ -18,5 +18,7 @@ test('Levenstein Distance', function (t) {
 
   // replace(5@L1 -> 2@R1), insert(1@R18), insert(2@R19), insert(3@R20)
   t.equal(levenstein('153123451234567890153', '123123451234567890'), 4);
+
+  t.equal(levenstein('react', 'fact'), 2);
   t.end();
 });
