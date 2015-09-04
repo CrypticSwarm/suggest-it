@@ -11,7 +11,7 @@
   "main": "lib/suggest-it.js",
   "scripts": { "test": "tap test/*.js" },
   "engines": {
-    "node": "~0.6.9"
+    "node": "<=0.12.7"
   },
   "dependencies": {},
   "devDependencies": { "tap": "~0.2.3" },
