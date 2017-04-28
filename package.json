@@ -11,9 +11,6 @@
   "main": "lib/suggest-it.js",
   "licence": "MIT",
   "scripts": { "test": "tap test/*.js" },
-  "engines": {
-    "node": "<=0.12.7"
-  },
   "dependencies": {},
   "devDependencies": { "tap": "~0.2.3" },
   "optionalDependencies": {}
