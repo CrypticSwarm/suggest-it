@@ -2,7 +2,7 @@
   "author": "Perrin Westrich <crypticswarm@gmail.com> (http://crypticswarm.com)",
   "name": "suggest-it",
   "description": "Given a dictionary, give spelling suggestions. ",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/CrypticSwarm/suggest-it",
   "repository": {
     "type": "git",
